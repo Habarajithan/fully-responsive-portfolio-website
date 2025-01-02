@@ -1,0 +1,248 @@
+.bg-container {
+    background-image: linear-gradient(to bottom, #00acdf, #00acdf, #7ce8ff);
+    background-size: cover;
+
+    height: 125vh;
+    align-content: center;
+}
+
+.name-logo {
+    width: 100px;
+    background-color: transparent;
+}
+
+.naving {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+.p-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 1000px;
+}
+
+body {
+    font-family: Sans-Serif;
+}
+
+.icon-container {
+    margin: 15px;
+    padding: 10px;
+}
+
+.lin {
+    background-color: #00acdf;
+    border-radius: 100px;
+    border-width: 0px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    color: yellow;
+}
+
+.view {
+    background-image: linear-gradient(to right, #00acdf, #00acdf, #7ce8ff);
+    height: 40px;
+    width: 120px;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+.contact-me {
+    background-image: linear-gradient(to right, #F4BC1C, #FED000, #FFE338);
+    height: 40px;
+    width: 120px;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+.bg-container2 {
+    background-image: linear-gradient(to bottom, #00acdf, #00acdf, #7ce8ff);
+    background-size: cover;
+    padding: 10px;
+    height: auto;
+}
+
+.about-image {
+    width: 80%;
+    padding: 10px;
+}
+
+.para {
+    color: #3b444b;
+}
+
+.card {
+    padding: 20px;
+    background-image: linear-gradient(to right, #00acdf, #55d0ff, #7ce8ff);
+    width: 100%;
+    box-shadow: -15px -15px 15px rgba(255, 255, 255, 0.2),
+        15px 15px 15px rgba(0, 0, 0, 0.1),
+        inset -5px -5px 5px rgba(255, 255, 255, 0.2),
+        inset 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.s-head {
+    margin-bottom: 45px;
+    padding: 0;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.skill_box {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.skill_box p {
+    color: black;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    padding: 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.skill_box p:nth-child(1) {
+    float: left;
+    position: relative;
+    top: -30px;
+}
+
+.skill_box p:nth-child(2) {
+    float: right;
+    position: relative;
+    top: -25px;
+}
+
+.skill {
+    background-color: transparent;
+    padding: 4px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    border-width: 0px;
+}
+
+.skill_level {
+    background-color: #0fffb7;
+    width: 100%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    background-color: transparent;
+}
+
+.bg-container3 {
+    background-image: linear-gradient(to bottom, #00acdf, #00acdf, #7ce8ff);
+    background-size: cover;
+    padding: 10px;
+    height: auto;
+    align-content: center;
+}
+
+.ser-image {
+    width: 100%;
+}
+
+.service-card {
+    border-radius: 5px;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    height: auto;
+    width: 300px;
+    margin: auto;
+}
+
+.soft {
+    color: #3b444b;
+}
+
+.bg-work {
+    background-image: linear-gradient(to bottom, #00acdf, #00acdf, #7ce8ff);
+    background-size: cover;
+    padding: 10px;
+    height: auto;
+}
+
+.work-card {
+    border-radius: 11px;
+    background-color: #F8EFE0;
+    border-width: 0px;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+
+.work-image {
+    width: 100%;
+    border-top-right-radius: 11px;
+    border-top-left-radius: 11px;
+}
+
+.work-para {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.linker {
+    color: #3b444b;
+}
+
+.bg-footer {
+    background-size: cover;
+    height: auto;
+    background-color: #00CBC8;
+    padding: 15px;
+}
+
+.twit {
+    background-color: #39E75F;
+    border-radius: 100px;
+    border-width: 0px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    color: yellow;
+}
+
+.cont-bg {
+    background-image: linear-gradient(to right, #00acdf, #00acdf, #7ce8ff);
+    padding: 10px;
+    font-family: "Open-Sans", Sans-Serif;
+    height: auto;
+    align-content: center;
+}
+
+.contact-me2 {
+    background-image: linear-gradient(to right, #F4BC1C, #FED000, #FFE338);
+    height: 40px;
+    width: 120px;
+    border-radius: 7px;
+    color: black;
+    border-width: 0px;
+    font-size: 15px;
+    font-weight: 400;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+.c-head {
+    color: #3b444b;
+}
