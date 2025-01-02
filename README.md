@@ -1,1 +1,8 @@
-# portfolio-website
+![Screenshot 2025-01-02 161403](https://github.com/user-attachments/assets/9fa75d61-8c4a-40d3-b3d5-1b14fb4ff32b)
+![Screenshot 2025-01-02 161438](https://github.com/user-attachments/assets/48201cbd-828e-4956-ae9a-af04a2891869)
+![Screenshot 2025-01-02 161456](https://github.com/user-attachments/assets/501d5074-207d-4d60-9056-994996a36b54)
+![Screenshot 2025-01-02 161516](https://github.com/user-attachments/assets/e5341fd7-7231-4b8f-9919-c1dbf83966c4)
+![Screenshot 2025-01-02 161535](https://github.com/user-attachments/assets/f6f5686c-d428-46f8-b400-4e48826eca58)
+![Screenshot 2025-01-02 161554](https://github.com/user-attachments/assets/cd383d07-40ad-4894-8654-0181c405ac99)
+![Screenshot 2025-01-02 161616](https://github.com/user-attachments/assets/2215bdc3-3a64-4859-9a4e-68f761bb0b3e)
+![Screenshot 2025-01-02 161818](https://github.com/user-attachments/assets/fcf5949b-7b06-4584-9b4d-6fd56465aa81)
